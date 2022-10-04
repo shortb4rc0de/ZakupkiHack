@@ -1,1 +1,1 @@
-# ZakupkiHack
+EDA for ZakupkiHack
